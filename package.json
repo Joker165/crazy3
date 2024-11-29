@@ -14,7 +14,7 @@
     "author": "DevilX",
     "license": "MIT",
     "dependencies": {
-        "@whiskeysockets/baileys":"github:TheGetsuzoZhiro/DevBaileys",
+        "@whiskeysockets/baileys":"^6.7.7",
         "@vitalets/google-translate-api": "^9.2.0",
         "@adiwajshing/keyed-db": "^0.2.4",
         "@bochilteam/scraper": "^4.2.4",
